@@ -15,6 +15,12 @@ Design and implement a Software Defined Networking (SDN) based solution to:
 
 ---
 
+## 🏗️ Architecture
+
+<img src="screenshots/architecture.png" width="1000">
+
+---
+
 ## 🎯 Objectives
 
 * Track packet traversal across multiple switches
