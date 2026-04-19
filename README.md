@@ -165,15 +165,37 @@ BLOCKED: 00:00:00:00:00:01 -> 00:00:00:00:00:03
 
 ---
 
-## 📸 Screenshots (Proof of Execution)
+## 📸 Screenshots
 
-Include the following:
+### Mininet topology (`nodes`, `net`)
 
-* Mininet topology (`nodes`, `net`)
-* `pingall` result (0% loss)
-* Allowed traffic (h1 → h2)
-* Blocked traffic (h1 → h3)
-* Controller logs (PATH TRACE + BLOCKED)
+  <img src="screenshots/topology.png" width="1000">
+  
+### pingall result before firewall rule (0% loss)
+
+  <img src="screenshots/pingall_before.png" width="1000">
+
+### pingall result after firewall rule (0% loss)
+
+  <img src="screenshots/pingall_after.png" width="1000">
+  
+### Allowed traffic
+
+  <img src="screenshots/ping_successful.png" width="1000">
+  
+### Blocked traffic
+
+  <img src="screenshots/ping_blocked.png" width="1000">
+
+### Starting Controller
+
+  <img src="screenshots/terminal1_open.png" width="1000">
+
+### Controller logs (PATH TRACE + BLOCKED)
+
+  <img src="screenshots/terminal1_path-trace.png" width="1000">
+
+  <img src="screenshots/terminal1_firewall-blocked.png" width="1000">
 
 ---
 
