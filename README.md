@@ -173,11 +173,11 @@ BLOCKED: 00:00:00:00:00:01 -> 00:00:00:00:00:03
   
 ### pingall result before firewall rule (0% loss)
 
-  <img src="screenshots/pingall_before.png" width="1000">
+  <img src="screenshots/before_pingall.png" width="1000">
 
 ### pingall result after firewall rule (0% loss)
 
-  <img src="screenshots/pingall_after.png" width="1000">
+  <img src="screenshots/after_pingall.png" width="1000">
   
 ### Allowed traffic
 
