@@ -195,8 +195,14 @@ BLOCKED: 00:00:00:00:00:01 -> 00:00:00:00:00:03
 
   <img src="screenshots/terminal1_path-trace.png" width="1000">
 
-  <img src="screenshots/terminal1_firewall-blocked.png" width="1000">
+  <img src="screenshots/terminal1_firewall-block.png" width="1000">
 
+### Throughput
+
+  <img src="screenshots/iperf.png" width="1000">
+
+  <img src="screenshots/iperf_result.png" width="1000">
+  
 ---
 
 ## ✅ Results
