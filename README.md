@@ -253,7 +253,7 @@ The implementation successfully integrates path tracing and firewall mechanisms 
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 By
 
 * Name: *KOTRA SAI SOUMYA SRI*
 * SRN: *PES1UG24CS911*
